@@ -2,6 +2,7 @@
 Nom|Python|C|Bash|Java|Ocaml
 ---|---|---|---|---|---
 Unary|X| | |X| 
+La_descente|X| | | | 
 
 # MOYEN
 Nom|Python|C|Bash|Java|Ocaml
