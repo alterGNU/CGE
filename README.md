@@ -1,7 +1,7 @@
 # FACILE
 Nom|Python|C|Bash|Java|Ocaml
 ---|---|---|---|---|---
-Unary|X| | | | 
+Unary|X| | |X| 
 
 # MOYEN
 Nom|Python|C|Bash|Java|Ocaml
