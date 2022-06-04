@@ -4,7 +4,7 @@ Nom|Python|C|Bash|Java|Ocaml
 La_descente|X| | |X| 
 Temperature|X|X|X|X| 
 Unary|X| | |X| 
-Power_of_thor|X|X||| 
+Power_of_thor|X|X||X| 
 
 # MOYEN
 Nom|Python|C|Bash|Java|Ocaml
