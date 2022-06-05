@@ -5,7 +5,7 @@ La_descente|X| | |X|
 Onboarding|X|X||X| 
 Power_of_thor|X|X||X| 
 Temperature|X|X|X|X| 
-ThereIsNoSpoon|X|||| 
+ThereIsNoSpoon|X|||X| 
 Unary|X| | |X| 
 
 # MOYEN
