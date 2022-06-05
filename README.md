@@ -7,6 +7,7 @@ Power_of_thor|X|X||X|
 Temperature|X|X|X|X| 
 ThereIsNoSpoon|X|||X| 
 Unary|X| | |X| 
+Mars_Lander|X| | || 
 
 # MOYEN
 Nom|Python|C|Bash|Java|Ocaml
