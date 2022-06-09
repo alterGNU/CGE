@@ -7,11 +7,13 @@ Power_of_thor|X|X||X|
 Temperature|X|X|X|X| 
 ThereIsNoSpoon|X|||X| 
 Unary|X| | |X| 
-Mars_Lander|X| | || 
+Mars_Lander|X| | | | 
+reverse_Minesweeper|X| | | | 
 
 # MOYEN
 Nom|Python|C|Bash|Java|Ocaml
 ---|---|---|---|---|---
+Mars_Lander| | | | | 
 
 # DIFFICILE
 Nom|Python|C|Bash|Java|Ocaml
