@@ -8,7 +8,7 @@ Temperature|X|X|X|X|
 ThereIsNoSpoon|X|||X| 
 Unary|X| | |X| 
 Mars_Lander|X| | | | 
-reverse_Minesweeper|X| | | | 
+Reverse_Minesweeper|X| |X| | 
 
 # MOYEN
 Nom|Python|C|Bash|Java|Ocaml
