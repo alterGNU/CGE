@@ -5,7 +5,7 @@ La_descente|X|X| |X|
 Onboarding|X|X||X| 
 Power_of_thor|X|X||X| 
 Temperature|X|X|X|X| 
-ThereIsNoSpoon|X|||X| 
+ThereIsNoSpoon|X|X||X| 
 Unary|X| | |X| 
 Mars_Lander|X| | | | 
 Reverse_Minesweeper|X| |X| | 
