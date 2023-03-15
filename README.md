@@ -9,6 +9,7 @@ ThereIsNoSpoon|X|X||X|
 Unary|X| | |X| 
 Mars_Lander|X| | | | 
 Reverse_Minesweeper|X| |X| | 
+Cheveaux_de_cours|X| | | | 
 
 # MOYEN
 Nom|Python|C|Bash|Java|Ocaml
