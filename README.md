@@ -14,7 +14,7 @@ Cheveaux_de_cours|X|X| | |
 # MOYEN
 Nom|Python|C|Bash|Java|Ocaml
 ---|---|---|---|---|---
-Mars_Lander| | | | | 
+Mars_Lander|.| | | | 
 
 # DIFFICILE
 Nom|Python|C|Bash|Java|Ocaml
