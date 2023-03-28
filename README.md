@@ -10,6 +10,7 @@ Unary|X| | |X|
 Mars_Lander|X| | | | 
 Reverse_Minesweeper|X| |X| | 
 Cheveaux_de_cours|X|X| | | 
+Shoot_Enemy_Aircraft| |X| | | 
 
 # MOYEN
 Nom|Python|C|Bash|Java|Ocaml
