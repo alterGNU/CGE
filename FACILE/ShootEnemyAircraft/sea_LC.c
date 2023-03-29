@@ -33,7 +33,7 @@ void freeAC(AC *ac){
 }
 
 LAC *initLAC(){
-    LAC *res = malloc(sizeof(AC));
+    LAC *res = malloc(sizeof(LAC));
     if(!res){fprintf(stderr,"Error: Out of memory\n"); return NULL; }
     res->h = NULL;
     return res;
